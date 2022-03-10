@@ -1,0 +1,13 @@
+.rolledDice{
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-color: black;
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 8px;
+}
